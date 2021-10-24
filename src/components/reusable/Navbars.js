@@ -9,7 +9,7 @@ export default function Navbars({stage}) {
     <div>
       <Navbar bg="danger" variant="dark">
         <Container>
-          <Navbar.Brand to="/home">Blood+</Navbar.Brand>
+          <Navbar.Brand to="/home">Rakt-Rekha</Navbar.Brand>
           <Nav className="justify-content-end" activeKey="/">
           <Nav.Item> 
           <NavLink to="/home">Home</NavLink>
